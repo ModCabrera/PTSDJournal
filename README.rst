@@ -33,8 +33,8 @@ of PTSD is demanding for reports and updates on progress of veterans and status 
 positively transitioned from military service to civilian life succesfully. The Medical Team needs a method
 of tracking progress, and also minimize the casualty rate of veterans suicide within their domain.
 
-Details:
-^^^^^^^^
+Details
+^^^^^^^
 Drill McAgee will be attempting therapy for PTSD, currently there is no way to track
 his overall mood over a period of time. Being able to track his overall behavior is very 
 beneficial to better suit services that McAgee may need. This project will attempt to help
@@ -45,8 +45,8 @@ be stored as an interger from 1 - 10 (Ascending by Severity) to allow for measur
 after the questioning McAgee will be allowed to input a maximum of 250 characters about details
 of his concerns or incidents for that particular day.
 
-Goals:
-^^^^^^
+Goals
+^^^^^
 The project will bridge the existing gap between patient and service provider, because
 it is difficult for patients to disclose a month or weeks of issues within a period of one hour.
 Likewise, it is difficult for service providers to provide better service without prior knowledge of 
@@ -80,5 +80,5 @@ User Stories:
 The Medical Team prepare to recieve outpatient military veteran Drill Seargent Tom McAgee.
 In order to better suit McAgee the Medical Team assigns him to a service provider for his needs, 
 and equips him with the PTSD Journal. Throughout the months of therapy McAgee feels closer to his 
-service and recovers at a faster rate, while maintaining his progresss steadily. His concerns are met, 
+service and recovers at a faster rate, while maintaining his progress steadily. His concerns are met, 
 and whenever McAgee has days that are below standard, he receives welcoming calls from the medical team.
