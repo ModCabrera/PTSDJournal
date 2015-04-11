@@ -36,6 +36,23 @@ of tracking progress, and also minimize the casualty rate of veterans suicide wi
 Problem Scenarios:
 ==================
 
+Drill McAgee
+^^^^^^^^^^^^
+Drill Seargent McAgee currently avoids all situations involving other people because he is emotionaly
+disturbed, filled with anxiety, and has very little communication with family memebers. McAgee is affected
+by nightmares and needs immediate medical help. Unfortunately, the medical services provided today don't track
+a patient when they are discharged home. McAgee could return to his old ways if proper follow ups, a way of
+tracking his mood and overall wellbeing are not emplaced. McAgee needs to find a way to reflect daily on life, so
+he can better analyze the actions of today which may help lead to better decisions tomorow.
+
+Medical Team
+^^^^^^^^^^^^
+The Medical Team has an enormous ammount of veterans lined up to see service providers daily. It is currently 
+impossible to track the daily life progress and concerns of every military veteran. Today, there is an average 
+of 22 veterans dying every day, due to mental illness and failure to adress the issues they return from war with.
+The medical team needs to find a way to track the overall health, and triggers which may lead to physical harm.
+There is currently no way of adressing this issues as of today.
+
 Details
 ^^^^^^^
 Drill McAgee will be attempting therapy for PTSD, currently there is no way to track
@@ -57,23 +74,6 @@ the patients issues, concerns, and progress. This project attempts to serve a mu
 military veteran to vent and reflect daily on the issues, cocerns, mood, actions throught the day 
 and help the medical team become more involved in the recovery or treatment of veterans. 
 
-Drill McAgee
-^^^^^^^^^^^^
-Drill Seargent McAgee currently avoids all situations involving other people because he is emotionaly
-disturbed, filled with anxiety, and has very little communication with family memebers. McAgee is affected
-by nightmares and needs immediate medical help. Unfortunately, the medical services provided today don't track
-a patient when they are discharged home. McAgee could return to his old ways if proper follow ups, a way of
-tracking his mood and overall wellbeing are not emplaced. McAgee needs to find a way to reflect daily on life, so
-he can better analyze the actions of today which may help lead to better decisions tomorow.
-
-Medical Team
-^^^^^^^^^^^^
-The Medical Team has an enormous ammount of veterans lined up to see service providers daily. It is currently 
-impossible to track the daily life progress and concerns of every military veteran. Today, there is an average 
-of 22 veterans dying every day, due to mental illness and failure to adress the issues they return from war with.
-The medical team needs to find a way to track the overall health, and triggers which may lead to physical harm.
-There is currently no way of adressing this issues as of today.
- 
 User Stories:
 =============
 
