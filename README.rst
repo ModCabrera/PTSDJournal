@@ -2,13 +2,14 @@
 PTSD Journal
 ============
 
-'Description': Veterans with combat related experiences often return home
-with issues that make it difficult to cope with normal daily routines.
-Veterans who suffer from Post Traumatic Stress Disorder find it really difficult
-to socialize and express their issues and concerns because they feel ashamed. This 
-caused a spike in military death rates to reach average of 22 veterans a day in the
-year 2013. Therapy is very helpful for the long-term benefit of veterans, and being
-able to vent and express emotions in a controlled environment can help deter some of
+Description:
+^^^^^^^^^^^^
+Veterans with combat related experiences often return home with issues that make it 
+difficult to cope with normal daily routines. Veterans who suffer from Post Traumatic 
+Stress Disorder find it really difficult to socialize and express their issues and concerns 
+because they feel ashamed. This caused a spike in military death rates to reach average of 22 
+veterans a day in the year 2013. Therapy is very helpful for the long-term benefit of veterans, 
+and being able to vent and express emotions in a controlled environment can help deter some of
 these tragedies. In this project, the goal will be to bridge and implement a venting
 process by tracking written responses with pre-formulated questions which will consider
 the veterans mood, concerns of the day, sleep quality measured by interger and a daily 
@@ -31,8 +32,8 @@ of PTSD is demanding for reports and updates on progress of veterans and status 
 positively transitioned from military service to civilian life succesfully. The Medical Team needs a method
 of tracking progress, and also minimize the casualty rate of veterans suicide within their domain.
 
-'Details':
-^^^^^^^^^^^^
+Details:
+^^^^^^^^
 Drill McAgee will be attempting therapy for PTSD, currently there is no way to track
 his overall mood over a period of time. Being able to track his overall behavior is very 
 beneficial to better suit services that McAgee may need. This project will attempt to help
