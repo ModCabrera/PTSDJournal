@@ -33,6 +33,9 @@ of PTSD is demanding for reports and updates on progress of veterans and status 
 positively transitioned from military service to civilian life succesfully. The Medical Team needs a method
 of tracking progress, and also minimize the casualty rate of veterans suicide within their domain.
 
+Problem Scenarios:
+==================
+
 Details
 ^^^^^^^
 Drill McAgee will be attempting therapy for PTSD, currently there is no way to track
@@ -53,9 +56,6 @@ Likewise, it is difficult for service providers to provide better service withou
 the patients issues, concerns, and progress. This project attempts to serve a multiple purpose, allow the 
 military veteran to vent and reflect daily on the issues, cocerns, mood, actions throught the day 
 and help the medical team become more involved in the recovery or treatment of veterans. 
-
-Problem Scenarios:
-==================
 
 Drill McAgee
 ^^^^^^^^^^^^
