@@ -2,8 +2,8 @@
 PTSD Journal
 ============
 
-Description:
-^^^^^^^^^^^^
+Description: 
+============
 Veterans with combat related experiences often return home with issues that make it 
 difficult to cope with normal daily routines. Veterans who suffer from Post Traumatic 
 Stress Disorder find it really difficult to socialize and express their issues and concerns 
@@ -16,7 +16,8 @@ the veterans mood, concerns of the day, sleep quality measured by interger and a
 journal to keep record of specific triggers in veterans.
 
 Persona:
-=========
+========
+
 McAgee:
 ^^^^^^^
 Drill Seargent Tom McAgee is an Army Ranger, recently recieved an Honorable Discharge and
@@ -54,7 +55,7 @@ military veteran to vent and reflect daily on the issues, cocerns, mood, actions
 and help the medical team become more involved in the recovery or treatment of veterans. 
 
 Problem Scenarios:
-===================
+==================
 
 Drill McAgee
 ^^^^^^^^^^^^
