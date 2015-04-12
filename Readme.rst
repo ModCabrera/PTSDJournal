@@ -17,7 +17,6 @@ Personas
 
 McAgee
 -------
-
 Drill Seargent Tom McAgee is an Army Ranger, recently recieved an Honorable Discharge and
 is returning home. Drill McAgee used to be very sociable but since enduring five long 
 years in a combat environment, he tends to yell at random people and treat them like 
@@ -29,7 +28,6 @@ needs a way to vent in an envrionment that is progressive in his recovery and tr
 
 Medical Team
 -------------
-
 The Medical Team currently has no way of tracking incoming veterans progress, and the Centralized Unit
 of PTSD is demanding for reports and updates on progress of veterans and status of veterans that have
 positively transitioned from military service to civilian life succesfully. The Medical Team needs a method
