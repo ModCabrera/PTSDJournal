@@ -28,7 +28,7 @@ McAgee Details
 ^^^^^^^^^^^^^^
 
 Drill Seargent Tom McAgee wants to be more involved with his PTSD Treatment, and 
-needs a way to vent in an envrionment that is progressive in his recovery and treatment.
+needs a way to vent in an environment that is progressive in his recovery and treatment.
 
 Medical Team
 -------------
