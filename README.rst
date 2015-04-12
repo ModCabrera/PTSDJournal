@@ -1,6 +1,7 @@
 ============
 PTSD Journal
 ============
+
 'Description': Veterans with combat related experiences often return home with issues that make it 
 difficult to cope with normal daily routines. Veterans who suffer from Post Traumatic 
 Stress Disorder find it really difficult to socialize and express their issues and concerns 
@@ -23,7 +24,10 @@ years in a combat environment, he tends to yell at random people and treat them 
 brand new soldiers in basic training. Drill McAgee has to find a better way express himself,
 better his mood and help his medical care team track his progress during this process.
 
-'Details': Drill Seargent Tom McAgee wants to be more involved with his PTSD Treatment, and 
+McAgee Details
+^^^^^^^^^^^^^^
+
+Drill Seargent Tom McAgee wants to be more involved with his PTSD Treatment, and 
 needs a way to vent in an envrionment that is progressive in his recovery and treatment.
 
 Medical Team
@@ -33,7 +37,9 @@ of PTSD is demanding for reports and updates on progress of veterans and status 
 positively transitioned from military service to civilian life succesfully. The Medical Team needs a method
 of tracking progress, and also minimize the casualty rate of veterans suicide within their domain.
 
-'Details': The Medical Team wants to be more involved in veteran patient's progress and needs a 
+Medical Team Details 
+^^^^^^^^^^^^^^^^^^^^
+The Medical Team wants to be more involved in veteran patient's progress and needs a 
 form of tracking the outcome of certain treatment and therapy, while providing a log of patients
 concerns and scenarios which may further help future patients for faster recovery. 
 
@@ -41,7 +47,7 @@ Problem Scenarios:
 ==================
 
 Drill McAgee
-^^^^^^^^^^^^
+------------
 
 Drill Seargent McAgee currently avoids all situations involving other people because he is emotionaly
 disturbed, filled with anxiety, and has very little communication with family memebers. McAgee is affected
@@ -51,7 +57,7 @@ tracking his mood and overall wellbeing are not emplaced. McAgee's only form of 
 reflection is by written journal which he doesnt bring to appointments.
 
 Medical Team
-^^^^^^^^^^^^
+------------
 
 The Medical Team has an enormous ammount of veterans lined up to see service providers daily. It is currently 
 impossible to track the daily life progress and concerns of every military veteran. Today, there is an average 
