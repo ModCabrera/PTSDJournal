@@ -1,11 +1,12 @@
-****************
+============
 PTSD Journal
-****************
--------------
+============
+
 Personas:
--------------
+=========
 
 Sergeant McGee
+--------------
 
 Persona: McGee suffers from Post Traumatic Stress and is attending therapy at the local Veterans Administration Hospital after his Honorable Discharge.
 
@@ -14,6 +15,7 @@ Details: McGee is  a Post-911 combat war veteran of Afghanistan and Iraq. He led
 Goals: McGee wants to reintegrate into civilian life, but his separation doctors have advised him to participate in therapy led by a medical team to alleviate the issues that have made him angry over the past couple of months. 
 
 Medical Team [Mike, Hannah]
+---------------------------
 
 Hannah - Medical Team Psychologist
 
@@ -31,10 +33,12 @@ Details: Mike helps patients between therapy or group sessions. He is concerned 
 
 Goals: To keep and updated record of patients contact information, and a log of their progress to provide better suited services.
 
---------------------------
+
 Problem Scenarios:
---------------------------
+==================
+
 McGee
+-----
 
 Problem Scenario: McGee forgets his notes and forgets to tell his doctor Hannah about the bad days between sessions.
 
@@ -43,6 +47,7 @@ Current Alternative: McGee has to recollect his moods and sometimes neglects to 
 Value Proposition: A software that allows McGee to use his personal computer or provided tablet to input his mood and log a message he would like to share with Hannah and Mike about his day to improve the therapy sessions.
 
 Medical Team (Hannah, Mike)
+---------------------------
 
 Problem Scenario: Hannah has unproductive therapy sessions because her patients neglect to bring journal of recorded moods between their sessions and Mike is unable to communicate with patients about potential services that can benefit their overall well-being.
 
@@ -50,17 +55,19 @@ Current Alternative: Hannah has patients quickly recap their main concerns brief
 
 Value Proposition: A software that allow patients to log their moods and daily events with grounding techniques to deter lapses in patients sessions. Since the journal is virtually submitted, patients don't need to remember to bring extra materials to therapy. The Team is able to observe progress and prepare for future events with more time for preparation.
 
------------------
+
 User Stories:
------------------
+=============
 
 
 Self Observation - Reflection
+-----------------------------
 
 As Drill Sergeant McGee, I want to record my daily activities, and answer questions about grounding techniques
 so that I can provide my medical team a better understanding of what my current mental health medical needs are.
 
 Medical Progression Log
+-----------------------
 
 As The Medical Team Hannah and Mike, we want to record daily activites of patients, and have them answer formulated questions about
 grounding techniques so that we can monitor patient progress, suit their needs better and deter situations where
