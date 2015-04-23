@@ -1,103 +1,67 @@
-============
+****************
 PTSD Journal
-============
-
-'Description': Veterans with combat related experiences often return home with issues that make it 
-difficult to cope with normal daily routines. Veterans who suffer from Post Traumatic 
-Stress Disorder find it really difficult to socialize and express their issues and concerns 
-because they feel ashamed. This caused a spike in military death rates to reach average of 22 
-veterans a day in the year 2013. Therapy is very helpful for the long-term benefit of veterans, 
-and being able to vent and express emotions in a controlled environment can help deter some of
-these tragedies. In this project, the goal will be to bridge and implement a venting
-process by tracking written responses with pre-formulated questions which will consider
-the veterans mood, concerns of the day, sleep quality measured by interger and a daily 
-journal to keep record of specific triggers in veterans.
-
-Personas
-========
-
-McAgee
--------
-Drill Seargent Tom McAgee is an Army Ranger, recently recieved an Honorable Discharge and
-is returning home. Drill McAgee used to be very sociable but since enduring five long 
-years in a combat environment, he tends to yell at random people and treat them like 
-brand new soldiers in basic training. Drill McAgee has to find a better way express himself,
-better his mood and help his medical care team track his progress during this process.
-
-McAgee Details
-^^^^^^^^^^^^^^
-
-Drill Seargent Tom McAgee wants to be more involved with his PTSD Treatment, and 
-needs a way to vent in an environment that is progressive in his recovery and treatment.
-
-Medical Team
+****************
 -------------
-The Medical Team currently has no way of tracking incoming veterans progress, and the Centralized Unit
-of PTSD is demanding for reports and updates on progress of veterans and status of veterans that have
-positively transitioned from military service to civilian life succesfully. The Medical Team needs a method
-of tracking progress, and also minimize the casualty rate of veterans suicide within their domain.
+Personas:
+-------------
 
-Medical Team Details 
-^^^^^^^^^^^^^^^^^^^^
-The Medical Team wants to be more involved in veteran patient's progress and needs a 
-form of tracking the outcome of certain treatment and therapy, while providing a log of patients
-concerns and scenarios which may further help future patients for faster recovery. 
+Sergeant McGee
 
+Persona: McGee suffers from Post Traumatic Stress and is attending therapy at the local Veterans Administration Hospital after his Honorable Discharge.
+
+Details: McGee is  a Post-911 combat war veteran of Afghanistan and Iraq. He led hundreds of patrols where he endured hazardous environments and constant firefights.
+
+Goals: McGee wants to reintegrate into civilian life, but his separation doctors have advised him to participate in therapy led by a medical team to alleviate the issues that have made him angry over the past couple of months. 
+
+Medical Team [Mike, Hannah]
+
+Hannah - Medical Team Psychologist
+
+Persona: Hannah is a psychologist and an expert in Post Traumatic Stress Disorder.
+
+Details: Hannah has many patients and is unable to keep track of their progress between therapy sessions. She currently has patients write in notebooks but they always neglect to bring them to appointments.
+
+Goals: Being able to automate the process by having patients log their moods and activities in a journal which she can quickly sort through to see of any alerting conditions between sessions. Also, to implement a formulated grounding techniques questionnaire before logging daily activities. 
+
+Mike - Medical Team Patient Counselor
+
+Persona: Mike is a counselor in the Medical Team, he works side by side with Hannah and the patients. Mike enjoys helping fellow veterans and as a volunteer is in constant communication with patients and progress.
+
+Details: Mike helps patients between therapy or group sessions. He is concerned patients don't return because they isolate themselves. He wants to help patients feel comfortable about reaching out and speaking to him. He has no way of knowing when patients are not doing well. 
+
+Goals: To keep and updated record of patients contact information, and a log of their progress to provide better suited services.
+
+--------------------------
 Problem Scenarios:
-==================
+--------------------------
+McGee
 
-Drill McAgee
-------------
+Problem Scenario: McGee forgets his notes and forgets to tell his doctor Hannah about the bad days between sessions.
 
-Drill Seargent McAgee currently avoids all situations involving other people because he is emotionaly
-disturbed, filled with anxiety, and has very little communication with family memebers. McAgee is affected
-by nightmares and needs immediate medical help. Unfortunately, the medical services provided today don't track
-a patient when they are discharged home. McAgee could return to his old ways if proper follow ups, a way of
-tracking his mood and overall wellbeing are not emplaced. McAgee's only form of tracking grounding techniques and 
-reflection is by written journal which he doesnt bring to appointments.
+Current Alternative: McGee has to recollect his moods and sometimes neglects to mention days because he doesn't want to remember them.
 
-Medical Team
-------------
+Value Proposition: A software that allows McGee to use his personal computer or provided tablet to input his mood and log a message he would like to share with Hannah and Mike about his day to improve the therapy sessions.
 
-The Medical Team has an enormous ammount of veterans lined up to see service providers daily. It is currently 
-impossible to track the daily life progress and concerns of every military veteran. Today, there is an average 
-of 22 veterans dying every day, due to mental illness and failure to adress the issues they return from war with.
-The medical team needs to find a way to track the overall health, and triggers which may lead to physical harm.
-There is currently no way of adressing this issues as of today.
+Medical Team (Hannah, Mike)
 
-Details
-^^^^^^^
+Problem Scenario: Hannah has unproductive therapy sessions because her patients neglect to bring journal of recorded moods between their sessions and Mike is unable to communicate with patients about potential services that can benefit their overall well-being.
 
-Drill McAgee will be attempting therapy for PTSD, currently there is no way to track
-his overall mood over a period of time. Being able to track his overall behavior is very 
-beneficial to better suit services that McAgee may need. This project will attempt to help
-his Medical Services Team to keep a record of and track the mood and behavior of McAgee.
-The Medical Team would like to input a series of questions that will be tailored to help
-track specific issues with McAgee with a Default Question about his daily overall mood to 
-be stored as an interger from 1 - 10 (Ascending by Severity) to allow for measuring over time, 
-after the questioning McAgee will be allowed to input a maximum of 250 characters about details
-of his concerns or incidents for that particular day.
+Current Alternative: Hannah has patients quickly recap their main concerns briefly and if serious matters arise, she schedules another session. Hannah often re-schedules other patients because more serious matters arise, causing other patients to leave and not return for therapy.
 
-Goals
-^^^^^
+Value Proposition: A software that allow patients to log their moods and daily events with grounding techniques to deter lapses in patients sessions. Since the journal is virtually submitted, patients don't need to remember to bring extra materials to therapy. The Team is able to observe progress and prepare for future events with more time for preparation.
 
-The project will bridge the existing gap between patient and service provider, because
-it is difficult for patients to disclose a month or weeks of issues within a period of one hour.
-Likewise, it is difficult for service providers to provide better service without prior knowledge of 
-the patients issues, concerns, and progress. This project attempts to serve a multiple purpose, allow the 
-military veteran to vent and reflect daily on the issues, cocerns, mood, actions throught the day 
-and help the medical team become more involved in the recovery or treatment of veterans. 
-
+-----------------
 User Stories:
-=============
+-----------------
+
 
 Self Observation - Reflection
------------------------------
-As Drill Seargent Tom McAgee, I want to record my daily activities, and answer questions about grounding techniques
+
+As Drill Sergeant McGee, I want to record my daily activities, and answer questions about grounding techniques
 so that I can provide my medical team a better understanding of what my current mental health medical needs are.
 
 Medical Progression Log
------------------------
-As The Medical Team, we want to record daily activites of patients, and have them answer preformulated questions about
+
+As The Medical Team Hannah and Mike, we want to record daily activites of patients, and have them answer formulated questions about
 grounding techniques so that we can monitor patient progress, suit their needs better and deter situations where
 a patient may be in danger of relapsing. 
