@@ -97,7 +97,7 @@ Review-Edit Log Journal
 
 ::
 
-    Given that i want to review patients progress
+    Given that I want to review patients progress
         And Click on PTSD Journal Icon
           And Click <Ctrl-A>
             And I enter Admin Username/Password
