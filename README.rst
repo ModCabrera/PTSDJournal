@@ -89,7 +89,7 @@ Log Journal for w/ bad mood
     Then answer my doctor’s grounding technique questions
         And I’ve rated my overall mood below 5
 	And I receive a suggestion to call Mike or the Hotline
-	  And I am able to view a list of dates with logged entries and preview Journal text and mood rating number
+	  And I view a list of log entries/mood rating w/ Doctors Comments Above
         …
 
 Log Journal w/ good mood
@@ -103,7 +103,7 @@ Log Journal w/ good mood
     When I finish writing in journal for the day
     Then answer my doctor’s grounding technique questions
         And I’ve rated my overall mood above 5
-	And I am able to view a list of
+	And I view a list of logged entries and rating w/ Doctors Comments Above
 	And I click <Esc> so the Journal automatically closes. 
         …
 
@@ -115,9 +115,9 @@ Log Journal Average of Mood
     Given that I want to write in my journal today
         And click on PTSD Journal Icon
         ...
-    When I Click <Ctrl-A>
+    When I Click <Ctrl-E>
     Then view list of journal entries
         And I click <Ctrl-M>
-	And I am able to view Doctor Hannah’s Comments and average mood rating/progress report. 
+	And I view Doctor Hannah’s Comments and average mood rating/progress report. 
         …
 
