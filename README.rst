@@ -72,3 +72,52 @@ Medical Progression Log
 As The Medical Team Hannah and Mike, we want to record daily activites of patients, and have them answer formulated questions about
 grounding techniques so that we can monitor patient progress, suit their needs better and deter situations where
 a patient may be in danger of relapsing. 
+
+
+Acceptance Stories:
+^^^^^^^^^^^^^^^^^^^
+
+Log Journal for w/ bad mood
+``````````````````````````````````````
+
+::
+
+    Given that I want to write in my journal today
+        And click on PTSD Journal Icon
+        ...
+    When I finish writing in journal for the day
+    Then answer my doctor’s grounding technique questions
+        And I’ve rated my overall mood below 5
+	And I receive a suggestion to call Mike or the Hotline
+	  And I am able to view a list of dates with logged entries and preview Journal text and mood rating number
+        …
+
+Log Journal w/ good mood
+````````````````````````````````````
+
+::
+
+    Given that I want to write in my journal today
+        And click on PTSD Journal Icon
+        ...
+    When I finish writing in journal for the day
+    Then answer my doctor’s grounding technique questions
+        And I’ve rated my overall mood above 5
+	And I am able to view a list of
+	And I click <Esc> so the Journal automatically closes. 
+        …
+
+Log Journal Average of Mood
+```````````````````````````````````````
+
+::
+
+    Given that I want to write in my journal today
+        And click on PTSD Journal Icon
+        ...
+    When I Click <Ctrl-A>
+    Then view list of journal entries
+        And I click <Ctrl-M>
+	And I am able to view Doctor Hannah’s Comments and average mood rating/progress report. 
+        …
+
