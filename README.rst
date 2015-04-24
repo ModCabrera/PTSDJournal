@@ -78,7 +78,7 @@ Acceptance Stories:
 ^^^^^^^^^^^^^^^^^^^
 
 Log Journal for w/ bad mood
-``````````````````````````````````````
+```````````````````````````
 
 ::
 
@@ -92,23 +92,26 @@ Log Journal for w/ bad mood
 	  And I view a list of log entries/mood rating w/ Doctors Comments Above
         …
 
-Log Journal w/ good mood
-````````````````````````````````````
+Review-Edit Log Journal
+```````````````````````
 
 ::
 
-    Given that I want to write in my journal today
-        And click on PTSD Journal Icon
+    Given that i want to review patients progress
+        And Click on PTSD Journal Icon
+          And Click <Ctrl-A>
+            And I enter Admin Username/Password
+              And I am able to view patients names, average mood rating
+              	And I select desired patient and press enter
         ...
-    When I finish writing in journal for the day
-    Then answer my doctor’s grounding technique questions
-        And I’ve rated my overall mood above 5
-	And I view a list of logged entries and rating w/ Doctors Comments Above
+    When I finish writting my Progress Report, and mood was below average
+    Then I select Forward to Mike, and Select Send
+	And I forward the message to Mike because patient mood was below average
 	And I click <Esc> so the Journal automatically closes. 
         …
 
 Log Journal Average of Mood
-```````````````````````````````````````
+```````````````````````````
 
 ::
 
