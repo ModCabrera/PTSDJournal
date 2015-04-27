@@ -77,8 +77,8 @@ a patient may be in danger of relapsing.
 Acceptance Stories:
 ^^^^^^^^^^^^^^^^^^^
 
-Log Journal for w/ bad mood
-```````````````````````````
+Scenario 1: Log Journal for w/ bad mood
+````````````````````````````````````````
 
 ::
 
@@ -92,8 +92,8 @@ Log Journal for w/ bad mood
 	  And I view a list of log entries/mood rating w/ Doctors Comments Above
         …
 
-Review-Edit Log Journal
-```````````````````````
+Scenario 2: Review-Edit Log Journal
+````````````````````````````````````
 
 ::
 
@@ -110,8 +110,8 @@ Review-Edit Log Journal
 	And I click <Esc> so the Journal automatically closes. 
         …
 
-Log Journal Average of Mood
-```````````````````````````
+Scenario  3 : Log Journal Average of Mood
+``````````````````````````````````````````
 
 ::
 
