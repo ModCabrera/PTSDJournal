@@ -84,6 +84,7 @@ Acceptance Stories:
 
     Given that I want to write in my journal today
         And click on PTSD Journal Icon
+	    And I click on <A>
         ...
     When I finish writing in journal for the day
     Then answer my doctor’s grounding technique questions
@@ -99,8 +100,7 @@ Acceptance Stories:
 
     Given that I want to review patients progress
         And Click on PTSD Journal Icon
-          And Click <Ctrl-A>
-            And I enter Admin Username/Password
+          And Click <V>
               And I am able to view patients names, average mood rating
               	And I select desired patient and press enter
         ...
@@ -118,9 +118,10 @@ Acceptance Stories:
     Given that I want to write in my journal today
         And click on PTSD Journal Icon
         ...
-    When I Click <Ctrl-E>
+    When I Click <V>
+	And I enter Username/Password
     Then view list of journal entries
-        And I click <Ctrl-M>
+        And I click <C>
 	And I view Doctor Hannah’s Comments and average mood rating/progress report. 
         …
 
